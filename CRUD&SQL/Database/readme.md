@@ -6,17 +6,19 @@ using C# and SQL Server stored procedures. This repository highlights how to int
 ---
 ### 🔑 Why Stored Procedures?
 Stored procedures in SQL Server provide###:
-              - 📈Performance optimization by pre‑compiled execution plans
-              - Security through parameterized queries, reducing SQL injection risks🛡️
-              - Maintainability by centralizing business logic in the database layer📝
-              -🛠️ Scalability for enterprise applications with complex transactions
+
+- 📈Performance optimization by pre‑compiled execution plans 
+- Security through parameterized queries, reducing SQL injection risks🛡️
+- Maintainability by centralizing business logic in the database layer📝 
+- 🛠️ Scalability for enterprise applications with complex transactions
 
 
 
 - 💻 In the creation of this database I made use of SQL Server Managament Studio
 - ⚙️ I made you of a local serever which has been indicate on the [###place for the location###](www.example.com)
+  
 -Note the schame the front will respond to once connected below
--    ### Create the table schema
+- ### Create the table schema
   CREATE TABLE EmpTest_Tab (
     Emp_ID INT PRIMARY KEY,             -- Employee ID
     Emp_Name NVARCHAR(50) NOT NULL,     -- Employee Name
