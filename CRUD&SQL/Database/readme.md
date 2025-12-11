@@ -1,11 +1,11 @@
-#Overview 
+# Overview 
 ---
 A modern ASP.NET MVC application demonstrating complete CRUD operations (Create, Read, Update, Delete),
 using C# and SQL Server stored procedures. This repository highlights how to integrate SQL Server Management Studio (SSMS) with Visual Studio to build scalable, enterprise‑grade applications.
 
 ---
-###🔑 Why Stored Procedures?
-        Stored procedures in SQL Server provide###:
+### 🔑 Why Stored Procedures?
+Stored procedures in SQL Server provide###:
               - 📈Performance optimization by pre‑compiled execution plans
               - Security through parameterized queries, reducing SQL injection risks🛡️
               - Maintainability by centralizing business logic in the database layer📝
@@ -16,7 +16,7 @@ using C# and SQL Server stored procedures. This repository highlights how to int
 - 💻 In the creation of this database I made use of SQL Server Managament Studio
 - ⚙️ I made you of a local serever which has been indicate on the [###place for the location###](www.example.com)
 -Note the schame the front will respond to once connected below
--    ###Create the table schema
+-    ### Create the table schema
   CREATE TABLE EmpTest_Tab (
     Emp_ID INT PRIMARY KEY,             -- Employee ID
     Emp_Name NVARCHAR(50) NOT NULL,     -- Employee Name
@@ -25,4 +25,4 @@ using C# and SQL Server stored procedures. This repository highlights how to int
     Sex NVARCHAR(20),                   -- Gender
     JoiningDate DATETIME,               -- Date of Joining
     Contact NVARCHAR(50)                -- Contact Info
-);###
+); ###
