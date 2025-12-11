@@ -1,11 +1,11 @@
-#🔎 Overview
+# 🔎 Overview
 
 This repository contains a CRUD (Create, Read, Update, Delete) application built with C# in Visual Studio. 
 The project demonstrates how to integrate SQL Server using both SQLDataClient for direct database connectivity and Entity Framework for ORM‑based data management. 
 It serves as a practical example of combining low‑level ADO.NET operations with high‑level Entity Framework abstractions to build scalable and maintainable applications.
 
 ---
-##🚀 Features
+## 🚀 Features
 
 - C# backend logic with clean architecture
 - SQLDataClient integration for direct queries and stored procedures
@@ -17,7 +17,7 @@ It serves as a practical example of combining low‑level ADO.NET operations wit
 
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Language: C#
 - Framework: .NET / ASP.NET MVC
 - Database: SQL Server
