@@ -15,7 +15,7 @@ Stored procedures in SQL Server provide###:
 
 
 - 💻 In the creation of this database I made use of SQL Server Managament Studio
-- ⚙️ I made you of a local serever which has been indicate on the [###place for the location###](www.example.com)
+- ⚙️ I made a local server which has been indicate on the [###place for the location###](www.example.com)
   
 -Note the schame the front will respond to once connected below
 - ### Create the table schema
