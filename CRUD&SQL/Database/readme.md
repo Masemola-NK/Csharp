@@ -15,7 +15,7 @@ Stored procedures in SQL Server provide###:
 
 
 - 💻 In the creation of this database I made use of SQL Server Managament Studio
-- ⚙️ I made a local server which has been indicate on the [###place for the location###](www.example.com)
+- ⚙️ I made a local server which has been indicate on the [###place for the location should be attached with database string ###]([www.example.com](https://github.com/Masemola-NK/Csharp/blob/main/CRUD%26SQL/C%23_FrontEnd/CRUD%20stored%20procedures/CRUD%20stored%20procedures/Form1.cs))
   
 -Note the schame the front will respond to once connected below
 - ### Create the table schema
